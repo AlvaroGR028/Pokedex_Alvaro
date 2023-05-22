@@ -1,5 +1,7 @@
 # DevWeek_Pokedex_Alvaro
+
 Projeto de Pokédex desenvolvida durante aulas no Youtube de introdução a programação em HTML, CSS e JAVASCRIPT do canal "Dev em Dobro".
+Confira: https://alvarogr028.github.io/Pokedex_Alvaro/projeto/
 
 Ele contém a representação de uma Pokédex, elemento presente dentro de uma animação japonesa chamada "Pokémon", onde aparecem os dados de diversos tipos de "Pokémons" junto de informações referentes a eles.
 
